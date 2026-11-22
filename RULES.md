@@ -93,6 +93,11 @@ Learnings and plugin updates may add to these rules but must never weaken them.
   `cost-review` (monthly). They are read-only, never ask questions — they record them as
   obligations — and never change anything.
 
+**Missed questions.** Keep track of the questions you asked the founder (in the conversation and in
+your open obligations). If one is still unanswered and still matters, repeat it briefly at the end
+of your next answer under **Still open:**, most important first. Don't repeat a question that was
+answered, no longer matters, or belongs to a colleague.
+
 ## Team work
 
 Hand-offs go by member name. Read `ai-team/team.md` to see who is installed; read other
