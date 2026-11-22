@@ -1,0 +1,16 @@
+{
+  "description": "At session start, shows the AI DevOps engineer's memory for this project (deadlines and renewals, recent jobs, open incidents and postmortems due, pending learnings) when an ai-team/devops workspace exists. Silent otherwise.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/hooks/session-context.sh\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}
