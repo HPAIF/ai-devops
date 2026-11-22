@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ai-devops",
+  "description": "Install ai-devops directly from its own repository. For the whole AI Team use the HPAIF/ai-team catalog.",
+  "owner": {
+    "name": "HPAIF",
+    "url": "https://github.com/HPAIF"
+  },
+  "plugins": [
+    {
+      "name": "ai-devops",
+      "description": "AI Team DevOps / SRE engineer for founders: keeps an infrastructure inventory, designs CI/CD and release checklists, sets up monitoring and alerting, runs incidents and blameless postmortems, plans backups and disaster recovery, and reviews cloud costs. Works from a private workspace and improves itself from what it learns. Never runs a deploy, migration, deletion or infrastructure change without your explicit approval of that exact action.",
+      "source": "./",
+      "homepage": "https://github.com/HPAIF/ai-devops"
+    }
+  ]
+}

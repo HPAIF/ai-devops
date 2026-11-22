@@ -23,6 +23,13 @@ In Claude Code:
 /plugin install ai-devops@ai-team
 ```
 
+Or install only this member, straight from its repository:
+
+```
+/plugin marketplace add HPAIF/ai-devops
+/plugin install ai-devops@ai-devops
+```
+
 Then, in your project (or your company folder), say **"set up the AI DevOps"**. The `setup` skill
 creates — or joins — the private `ai-team/` workspace, maps your products to their repositories,
 and offers `.gitignore`, safe permissions (deploy, cloud and database commands always ask) and
