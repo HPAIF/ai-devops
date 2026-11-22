@@ -1,6 +1,6 @@
 {
   "name": "ai-devops",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "AI Team DevOps / SRE engineer for founders: keeps an infrastructure inventory, designs CI/CD and release checklists, sets up monitoring and alerting, runs incidents and blameless postmortems, plans backups and disaster recovery, and reviews cloud costs. Works from a private workspace and improves itself from what it learns. Never runs a deploy, migration, deletion or infrastructure change without your explicit approval of that exact action.",
   "author": {
     "name": "HaykazXP",
